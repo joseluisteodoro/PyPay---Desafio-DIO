@@ -6,3 +6,42 @@
 #Cada saque e depósito deve ser armazenado no extrato devidamente identificado
 #Exibir mensagens de erro caso o saldo seja insuficiente e demais erros possíveis
 #Possuir Menu - E não é necessário possuir usuário
+
+#Saudação:
+from tkinter import Menu
+
+
+print("""
+++++++++++++++++++++++++++++++++++++      
+     Olá! Seja Bem ao PyPay!
+O melhor banco digital em Pyhon!
+      
++++++++++Version: V1.0++++++++++++++
+      """)
+
+#Menu:
+menu = """
+************************************
+                MENU
+************************************      
+     Selecione a opção desejada:
+
+[1] - Depositar
+[2] - Sacar
+[3] - Extrato
+[0] - Sair
+
+"""
+
+#Iniciamos definindo valores base para o código
+saldo = 0
+LIMITE = 500
+extrato = ""
+saques_feitos = 0
+LIMITE_SAQUE = 3
+
+#Definimos while True para fazer um looping
+while True:
+
+    opcao = input(menu)
+
