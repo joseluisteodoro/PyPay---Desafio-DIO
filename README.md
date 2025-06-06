@@ -7,9 +7,9 @@ Se trata de uma versão simples de um sistema bancário feito em python
 Versão atual V1.0
 
 ## ✨ Funções disponíveis
-Saque  
-Depósito  
-Extrato
+- Saque  
+- Depósito  
+- Extrato
 
 ## 📖 Tecnologias utilizadas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
