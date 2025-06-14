@@ -19,7 +19,7 @@ V1.0
 - Criação da base do PyPay🌐  
 - Adicionado menu  
 - Funções: Saque, Depósito e Extrato   
-- Ajustado Design e emojis   
+- Ajustado Design e emojis  
 V2.0
 - Limite de transações diárias
 - Extrato com data e hora
