@@ -24,6 +24,7 @@ V1.0
 V1.5
 - Limite de transações diárias
 - Extrato com data e hora   
+
 v2.0
 - Agora é possível criar usuários e contas
 
