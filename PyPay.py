@@ -208,8 +208,13 @@ while True:
     #Extrato          
     elif opcao == 3:
          saldo, extrato = mostrar_extrato(saldo,extrato=extrato)
+
+    elif opcao == 0:
+         print("Até logo!!")
+         break
     else:
          print("\n Digite uma opção válida! \n")
+
     
 
 

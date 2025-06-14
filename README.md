@@ -26,4 +26,3 @@ V1.5
 - Extrato com data e hora
 v2.0
 - Agora é possível criar usuários e contas
-
